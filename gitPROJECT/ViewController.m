@@ -19,7 +19,9 @@
     UIButton *btn = [[UIButton alloc]init];
     NSLog(@"git");
 }
--(void)print{}
+-(void)print{
+    NSLog(@"print");
+}
 
 
 @end
