@@ -20,6 +20,7 @@
     NSLog(@"git");
 }
 -(void)print{
+    NSLog(@"pullRequest");
     NSLog(@"print");
 }
 
